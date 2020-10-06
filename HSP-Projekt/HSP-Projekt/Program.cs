@@ -11,7 +11,8 @@ namespace HSP_Projekt
         static void Main(string[] args)
         {
             Console.WriteLine("Lennart Meyer");
-			Console.WriteLine("Adrian Morawietz");
+            Console.WriteLine("Adrian Morawietz");
+            Console.WriteLine("Thorben Janssen");
             Console.ReadLine();
         }
     }
