@@ -11,7 +11,7 @@ namespace HSP_Projekt
         static void Main(string[] args)
         {
             Console.WriteLine("Lennart Meyer");
-            Console.WriteLine("Test Test");
+            Console.WriteLine("Test 2Test");
             Console.WriteLine("Adrian");
             Console.WriteLine("Thorben");
             Console.ReadLine();
