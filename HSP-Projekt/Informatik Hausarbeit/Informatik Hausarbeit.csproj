@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8AD54EB-E36D-4226-8D36-8B61281BEDC3}</ProjectGuid>
+    <ProjectGuid>{183092BE-CF4F-416C-BB54-C2A61455F4CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HSP_Projekt</RootNamespace>
-    <AssemblyName>HSP-Projekt</AssemblyName>
+    <RootNamespace>Informatik_Hausarbeit</RootNamespace>
+    <AssemblyName>Informatik Hausarbeit</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
