@@ -52,6 +52,7 @@ namespace Informatik_Hausarbeit
             Random rand = new Random();
             return(g + (rand.NextDouble() * (h - g)));
         }
+        Console.WriteLine("ENDE");
 
     }
 }
