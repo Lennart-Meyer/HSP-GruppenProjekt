@@ -21,6 +21,7 @@ namespace Informatik_Hausarbeit
             double x;
             double y;
             Console.WriteLine("Lennart Meyer");
+            Console.WriteLine("Lennart Bruns");
 
             Console.WriteLine("Bitte geben Sie ihre Matrikelnummer ein: ");
             int mtrklnr = Convert.ToInt32(Console.ReadLine());
