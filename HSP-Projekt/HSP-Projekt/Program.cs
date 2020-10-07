@@ -12,7 +12,7 @@ namespace HSP_Projekt
         {
             Console.WriteLine("Lennart Meyer");
             Console.WriteLine("Adrian");
-            Console.WriteLine("Thorben Janssen");
+            Console.WriteLine("Thorben");
             Console.ReadLine();
         }
     }
