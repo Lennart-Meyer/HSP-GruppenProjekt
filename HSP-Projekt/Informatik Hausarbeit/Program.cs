@@ -20,6 +20,7 @@ namespace Informatik_Hausarbeit
             int A = (max - min) * (b - a);
             double x;
             double y;
+            Console.WriteLine("Lennart Meyer");
 
             Console.WriteLine("Bitte geben Sie ihre Matrikelnummer ein: ");
             int mtrklnr = Convert.ToInt32(Console.ReadLine());
