@@ -45,7 +45,7 @@ namespace Informatik_Hausarbeit
         
         static double f(double x, int c)
         {
-            return (0.5 * x + c);
+            return (0.5 * x + c * 6);
         }
 
         public static double rnd(double g, double h)
